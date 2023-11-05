@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Hunny Gandhi</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
