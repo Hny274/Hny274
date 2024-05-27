@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hny274" alt="hny274" /></a> </p>
 
-- 🔭 I’m currently working on **Real Time Chat Application**
-
-- 🌱 I’m currently learning **Node Js, Type Script**
+- 🌱 I’m currently learning **Node Js, React Js**
 
 - 💬 Ask me about **Node Js**
 
